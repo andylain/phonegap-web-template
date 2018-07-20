@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.andylain.blog" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.andylain.blog" version="0.0.2">
     
     <name>安迪連碎碎念</name>
     <description>從鏡頭體驗世界，用數位享受生活。 這裡有美食、攝影、數位3C和一些實用的教學！ - 安迪連碎碎念 http://andylain.blogspot.com/</description>
